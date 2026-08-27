@@ -13,6 +13,7 @@
 
 <aside>
 🐣
-**API для тестирования:** https://cloud-api.yandex.net
+API для тестирования: https://cloud-api.yandex.net
 
 </aside>
+
